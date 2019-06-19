@@ -12,9 +12,9 @@ import static walkingandroids.FormatColors.ANSI_WHITE;
 
 /**
  *
- * @author fabriciobarros
- * @author aldanalouzan
- * @author ferminaguilar
+ * @author
+ * @author
+ * @author
  */
 public class Walk {
 

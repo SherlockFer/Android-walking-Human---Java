@@ -8,8 +8,8 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author fabriciobarros
- * @author aldanalouzan
+ * @author
+ * @author
  */
 public class SetUp {
 

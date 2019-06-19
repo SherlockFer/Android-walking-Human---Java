@@ -3,7 +3,7 @@ package walkingandroids;
 
 /**
  *
- * @author fabriciobarros
+ * @author
  */
 public class Ankle extends Articulation {
 

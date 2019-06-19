@@ -8,8 +8,8 @@ import java.util.Map;
 
 /**
  *
- * @author fabriciobarros
- * @author aldanalouzan
+ * @author
+ * @author
  */
 public class MovementCalculation {
 

@@ -3,9 +3,9 @@ package walkingandroids;
 
 /**
  *
- * @author fabriciobarros
- * @author aldanalouzan
- * @author ferminaguilar
+ * @author
+ * @author
+ * @author
  */
 public class Waist extends Articulation{
     

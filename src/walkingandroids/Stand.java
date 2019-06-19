@@ -13,9 +13,9 @@ import static walkingandroids.FormatColors.ANSI_WHITE;
 
 /**
  *
- * @author fabriciobarros
- * @author aldana
- * @author ferminaguilar
+ * @author
+ * @author
+ * @author
  */
 public class Stand {
 

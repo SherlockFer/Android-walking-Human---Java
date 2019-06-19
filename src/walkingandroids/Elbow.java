@@ -3,8 +3,8 @@ package walkingandroids;
 
 /**
  *
- * @author fabriciobarros
- * @author aldanalouzan
+ * @author
+ * @author
  */
 public class Elbow extends Articulation{
 
